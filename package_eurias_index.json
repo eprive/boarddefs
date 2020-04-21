@@ -18,7 +18,6 @@
           "archiveFileName": "Eurias.zip",
 					"checksum": "SHA-256:41a08b835fd6a989ecad5acb6ba2a5c976e712fc3def6e8a1cffe2c7d7ea18ca",
           "size": "69679",
-          },
           "boards": [
             { "name": "pHzes (ATMEGA8A)" }
           ],
