@@ -15,9 +15,9 @@
           "version": "1.0.1",
           "category": "Breadboards",
           "url": "https://github.com/eprive/boarddefs/archive/v1.0.1.zip",
-          "archiveFileName": "Eurias-boarddefs.zip",
-					"checksum": "SHA-256:41a08b835fd6a989ecad5acb6ba2a5c976e712fc3def6e8a1cffe2c7d7ea18ca",
-          "size": "69679",
+          "archiveFileName": "Eurias-boarddefs-1.0.1.zip",
+					"checksum": "SHA-256:9c7bd0b2539736cb5e781e56304aca924e73ef216c02cd3b324514c643ecf803",
+          "size": "71423",
           "boards": [
             { "name": "pHzes (ATMEGA8A)" }
           ],
