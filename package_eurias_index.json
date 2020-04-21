@@ -1,0 +1,41 @@
+{
+  "packages": [
+    {
+      "name": "eurias",
+      "maintainer": "Eurias",
+      "websiteURL": "http://www.eurias.nl",
+      "email": "post@eurias.nl",
+      "help": {
+        "online": "http://www.arduino.cc/en/Reference/HomePage"
+      },
+      "platforms": [
+        {
+          "name": "Eurias Boards",
+          "architecture": "avr",
+          "version": "1.0.1",
+          "category": "Breadboards",
+          "url": "https://github.com/eprive/boarddefs/Eurias.zip",
+          "archiveFileName": "boarddefs.zip",
+					"checksum": "SHA-256:41a08b835fd6a989ecad5acb6ba2a5c976e712fc3def6e8a1cffe2c7d7ea18ca",
+          "size": "69679",
+          },
+          "boards": [
+            { "name": "pHzes (ATMEGA8A)" }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "4.8.1-arduino2"
+            },
+            {
+              "packager": "arduino",
+              "name": "avrdude",
+              "version": "6.0.1-arduino2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
